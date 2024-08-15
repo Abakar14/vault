@@ -3,15 +3,15 @@
 ## TODO
 
 ### Open
-- [ ] Create docker-compose file
-- [ ] Start Vault UI
-- [ ] Unseal keys
-- [ ] Create admin User
 - [ ] Create all Enviroment Variables for DSS
 
 ### In Progress 
-- [ ] Create Dockerfile for vault
-- [ ] Create Dockerfile for Consul backend
 
 ### Done ✓
+- [x] Create Dockerfile for vault
+- [x] Create Dockerfile for Consul backend
+- [x] Create docker-compose file
+- [x] Start Vault UI
+- [x] Unseal keys
+- [x] Create admin User
 
